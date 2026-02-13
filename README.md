@@ -21,9 +21,9 @@ Achieved ~85% accuracy on the MNIST test set.
 
 ## How to Run
 1. Install dependencies:
-   pip install numpy matplotlib
+   pip install numpy pandas
 2. Run:
-   python devsoc_nn.py
+   python nn_from_scratch.py
 
 ## Key Learning
 This project helped me deeply understand how backpropagation, gradients, and weight updates work internally instead of relying on high-level frameworks.
